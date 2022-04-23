@@ -1,0 +1,11 @@
+Model Information:
+* title:	Louvre_Museum
+* source:	https://sketchfab.com/3d-models/louvre-museum-8d11ca2fb25343cab600fd88720416c6
+* author:	ajmalsaleem88 (https://sketchfab.com/ajmalsaleem88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Louvre_Museum" (https://sketchfab.com/3d-models/louvre-museum-8d11ca2fb25343cab600fd88720416c6) by ajmalsaleem88 (https://sketchfab.com/ajmalsaleem88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
